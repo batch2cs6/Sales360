@@ -1,0 +1,9 @@
+{
+	"name": "casestudyGrp6",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7d8c99d3-496b-43de-9f19-ada033d42cbb",
+		"tenantId": "dce87315-8ffa-4a01-ab40-0de5a7214b2f"
+	}
+}
