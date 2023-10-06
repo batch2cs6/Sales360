@@ -11,6 +11,12 @@
 		"AzureBlobStorage2_connectionString": {
 			"value": ""
 		},
+		"AzureDatabricks1_accessToken": {
+			"value": ""
+		},
+		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
+			"value": "1005-045258-6gj22oc"
+		},
 		"containerUri": {
 			"value": ""
 		},
